@@ -40,6 +40,11 @@ main {
     margin-left: 20px;
 }
 
+main img {
+    width: 100px; 
+    height: auto; 
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
