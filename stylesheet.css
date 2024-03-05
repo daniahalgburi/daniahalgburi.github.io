@@ -31,11 +31,6 @@ main {
     padding: 20px;
 }
 
-main img {
-    width: 200px; 
-    height: auto;
-}
-
 .profile-section {
     display: flex;
     align-items: center;
